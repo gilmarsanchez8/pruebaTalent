@@ -31,7 +31,7 @@
 }
 
 #submitForm{
-    margin-top: 10px;
+    margin: 10px 0px 10px;
 }
 
 table {
@@ -48,4 +48,12 @@ td {
     padding: 5px 10px;
     text-align: center;
     border: 1px solid #999;
+}
+.fieldYear {
+    width: 80px !important;
+}
+
+.poster {
+    width: 80px;
+    height: 80px;
 }
